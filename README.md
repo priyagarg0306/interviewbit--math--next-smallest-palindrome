@@ -1,0 +1,1 @@
+# interviewbit--math--next-smallest-palindrome
